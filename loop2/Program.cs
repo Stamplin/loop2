@@ -1,4 +1,4 @@
-﻿////task1
+////task1
 
 //for (int i = 0; i <= 10; i++)
 //{
@@ -56,15 +56,23 @@
 
 //task3-loopsforfun
 string userInput;
+
 Console.WriteLine("please input a name:");
 userInput = Console.ReadLine().ToUpper();
 
 if (userInput == "ALDWORTH")
 {
-    
+  
+
 }
 
-for (int i = 0; i <= 5; i++)
-{
-    Console.WriteLine("Aldworth");
-}
+// for (int i = 0; i < 5; i++)
+//{
+//    Console.WriteLine("Aldworth");
+//}
+
+
+//for (int i = 0; i < 10; i++)
+//{
+//    Console.WriteLine(userInput);
+//}
