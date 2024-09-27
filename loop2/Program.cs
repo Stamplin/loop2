@@ -48,7 +48,7 @@ Console.WriteLine("Blast off!");
 //task2-xandy
 
 Console.WriteLine("X" + "\t" + "Y");
-for (int i = -10; i <= 10; i = i + 2)
+for (int i = -10; i <= 10; i += 2)
 {
     int j = i * i;
     Console.WriteLine(i + "\t" + j);
